@@ -4,7 +4,6 @@
 </h2>
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Lazy%20Developers&width=800&height=400)](https://github.com/Al3x-GitHub)
-
 </h2><b>
 <p align="center"> •
     <a href="https://github.com/ikx7a/Organizations/tree/main/GitHub"> More Information </a> •

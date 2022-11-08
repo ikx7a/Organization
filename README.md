@@ -7,7 +7,7 @@
 
 </h2><b>
 <p align="center"> •
-    <a href="https://github.com/ikx7a/ikx7a/tree/main/GitHub"> More Information </a> •
+    <a href="https://github.com/ikx7a/Organizations/tree/main/GitHub"> More Information </a> •
     </a></h2></p>
 
 **𝖢𝗈𝗉𝗒𝗋𝗂𝗀𝗁𝗍 |** [**Iᴢυɱi 和泉**](https://github.com/ikx7a)

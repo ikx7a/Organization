@@ -1,6 +1,6 @@
 <div align="center">
 <h2 align="center">
-    ─「 𝑂𝑟𝑔𝑎𝑛𝑖𝑧𝑎𝑡𝑖𝑜𝑛𝑠 」─
+    ─「 𝑂𝑟𝑔𝑎𝑛𝑖𝑧𝑎𝑡𝑖𝑜𝑛 」─
 </h2>
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Lazy%20Developers&width=800&height=400)](https://github.com/Al3x-GitHub)
